@@ -1,0 +1,1 @@
+Questo gioco è stato creato per praticare l'uso dei loop, la gestione dello scope globale e locale, e la manipolazione di liste e dizionari in Python. L'obiettivo è indovinare quale personaggio ha il maggior numero di ricerche su Google.
